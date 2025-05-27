@@ -8,7 +8,7 @@
 <body>
     <h1>Título de la página</h1>
     <p>Este es un párrafo de ejemplo.</p>
-    <img src="imagen.jpg" alt="Descripción de la imagen1">
+    <img src="imagen.jpg" alt="Descripción de la imagen3">
     <a href="https://www.ejemplo.com">Enlace a otra página</a>
 </body>
 </html>
